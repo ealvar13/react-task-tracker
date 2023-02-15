@@ -1,16 +1,16 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "text": "Meeting at School",
-      "day": "Feb 6th at 1:30pm",
-      "reminder": true
+      "text": "Hola",
+      "day": "Hola",
+      "reminder": true,
+      "id": 5
     },
     {
-      "text": "Hola mundo",
-      "day": "Mañana por la mañana",
-      "reminder": true,
-      "id": 3
+      "text": "Mundo",
+      "day": "Mañano lo haré",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
