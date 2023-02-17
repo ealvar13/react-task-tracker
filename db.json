@@ -5,6 +5,12 @@
       "day": "Hola",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "Mundo",
+      "day": "Mañana por la Mañana",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
